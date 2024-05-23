@@ -15,7 +15,3 @@ Increasing Difficulty: Each level adds a new button to the sequence, making it p
 Visual Feedback: Buttons flash to indicate the sequence and provide feedback on user input.
 Game Over Screen: Displays the player's score and prompts to restart the game.
 
-#Technologies Used
-HTML: Provides the structure of the game, including the title, instructions, and button layout.
-CSS: Styles the game interface, making it visually appealing.
-JavaScript: Handles the game logic, including sequence generation, user input tracking, and level progression.
